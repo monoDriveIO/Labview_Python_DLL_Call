@@ -1,0 +1,4 @@
+LIBRARY   EasyDLL
+DESCRIPTION "Does some sphere stuff."
+EXPORTS  
+    GetSphereSAandVol   @1
