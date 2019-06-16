@@ -41,6 +41,10 @@ def GetVol(radius):
     M_PI = 3.14159
     return 4.0 / 3.0 * M_PI * pow(radius, 3.0)
 
+def SumClusterIntegers(cluster):
+	"cluster[0] -> Integer, cluster[1] -> Integer"
+	return cluster[0] * cluster[1]
+	
 if __name__ == '__main__':
     print(multiply(1,2))
     print(GetSphereSAandVol(10))
