@@ -9,3 +9,12 @@
 extern "C" __declspec(dllexport) int GetSphereSAandVol(double radius, double* sa, double* vol);
 double GetSA(double radius);
 double GetVol(double radius);
+extern "C" __declspec(dllexport)
+typedef struct {
+	double re;
+	double im;
+} cmplx64;
+
+extern "C" __declspec(dllexport) int ComplexMultiply(cmplx64* input, double* output);
+
+extern "C" __declspec(dllexport) int RGB_TO_GRAY(float* input, double* output);

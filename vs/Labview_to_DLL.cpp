@@ -6,6 +6,12 @@
 
 
 
+int ComplexMultiply(cmplx64* input, double* output)
+{
+	*output = (*input).re * (*input).im;
+	//*output = 10.0;
+	return true;
+}
 
 int GetSphereSAandVol(double radius, double* sa, double* vol)
 //Calculate the surface area and volume of a sphere with given radius
