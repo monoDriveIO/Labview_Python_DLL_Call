@@ -9,3 +9,5 @@
 7. In code view double click on DLL node and set path to dll produced in step 3
 8. Run Labview VI, move input controller to send new data to each dll or python call (FPS is calculated for each)
 
+![Labview Front Panel](/labview/images/front_panel.gif)
+Format: ![Alt Text](url)

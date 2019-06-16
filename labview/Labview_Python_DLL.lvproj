@@ -14,7 +14,7 @@
 		<Item Name="Get Sphere S Aand Vol.vi" Type="VI" URL="../Get Sphere S Aand Vol.vi"/>
 		<Item Name="test_dll.vi" Type="VI" URL="../test_dll.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="Labview_to_DLL.dll" Type="Document" URL="../../vs/Labview_to_DLL/Debug/Labview_to_DLL.dll"/>
+			<Item Name="Labview_to_DLL.dll" Type="Document" URL="../../vs/Debug/Labview_to_DLL.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
