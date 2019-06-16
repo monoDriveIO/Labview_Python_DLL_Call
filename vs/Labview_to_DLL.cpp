@@ -1,8 +1,8 @@
-// Dll2.cpp : Defines the exported functions for the DLL application.
+// Labview_to_DLL.cpp : Defines the exported functions for the DLL application.
 //
 
 #include "stdafx.h"
-#include "Labview_DLL.h"
+#include "Labview_to_DLL.h"
 
 
 
