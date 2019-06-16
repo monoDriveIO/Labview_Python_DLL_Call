@@ -10,4 +10,5 @@
 8. Run Labview VI, move input controller to send new data to each dll or python call (FPS is calculated for each)
 
 ![Labview Front Panel](/labview/images/front_panel.gif)
-Format: ![Alt Text](url)
+![Labview Front Panel](/labview/images/G_Code.jpg)
+![Labview Front Panel](/Tutorial.gif)
